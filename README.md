@@ -6,7 +6,7 @@
 Your challenge is to build out this Testimonials grid section and get it looking as close to the design as possible.
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
-This is link to challange - [Testimonials grid section]([https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7))
+This is link to challange - [Testimonials grid section](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
 
 ## Desktop design
 ---
