@@ -10,7 +10,7 @@ This is link to challange - [Testimonials grid section]([https://www.frontendmen
 
 ## Desktop design
 ---
-![Testimonials grid section desktop design]([https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/gh4wbxnbnf9wqezb0b6y.jpg](https://res.cloudinary.com/dz209s6jk/image/upload/v1603385725/Challenges/uctyehbyqpp90valvmwn.jpg) "Testimonials grid section desktop design")
+![Testimonials grid section desktop design](https://res.cloudinary.com/dz209s6jk/image/upload/v1603385725/Challenges/uctyehbyqpp90valvmwn.jpg "Testimonials grid section desktop design")
 
 ## Built with
 ---
